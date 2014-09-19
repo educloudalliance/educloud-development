@@ -1,7 +1,7 @@
-pilvivayla-development
-======================
+EduCloud development documentations
+===================================
 
-Documentation about the processes etc
+Quick links:
 
 [What is EduCloud SSO?](https://github.com/koulutuksenpilvivayla/pilvivayla-development/wiki/EduCloud-SSO#introduction)
 
